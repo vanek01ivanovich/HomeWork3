@@ -15,9 +15,7 @@ public class TestGuessNumb {
     private static final int MAX = 100;
 
     @BeforeClass
-    public static void runTest(){
-        model = new Model(view);
-    }
+    public static void runTest(){ model = new Model(view);}
 
    @Test
     public void testForRandomNumb(){

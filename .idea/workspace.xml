@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2b0bf99-517c-4551-95d5-a0428ec5a285" name="Default Changelist" comment="" />
+    <list default="true" id="b2b0bf99-517c-4551-95d5-a0428ec5a285" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/TestGuessNumb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestGuessNumb.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XQaqRQB9dbwO2FbwcChTu0RgKe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -151,11 +157,22 @@
       <workItem from="1580991364317" duration="880000" />
       <workItem from="1581000852948" duration="19000" />
       <workItem from="1581174462334" duration="1028000" />
-      <workItem from="1581238146705" duration="9713000" />
+      <workItem from="1581238146705" duration="10129000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
